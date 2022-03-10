@@ -1,0 +1,38 @@
+
+# DIGITAL HEALTHCARE SYSTEM
+
+As we are marching towards digitalization mission, Digitalizing HEALTHCARE is at atmost need.
+
+Tele - Medicine is a key concept for developing Digital Healthcare products. It allows patients to consult doctor anytime , anywhere and remotely!!
+
+Here, I have developed a MVP on Digital HealthCare System , with few features. 
+
+FEATURES :
+
+FOR PATIENTS
+- BOOKING APPOINTMENT WITH DOCTORS
+- FILTERING DOCTORS WITH RESPECT TO SPECIALIZATION
+- SUBMITING MEDICAL REPORTS TO DOCTORS
+- VIDEO CONSULTATION VIA DEDICATED GMEET LINK FOR EACH DOCTOR
+
+FOR DOCTORS
+
+
+- ACCEPTING APPOITMENTS
+- CANCELLING APPOINTMENTS
+- VIEW ACCESS TO PATIENT'S MEDICAL REPORTS
+
+SOME MORE FEATURES ARE BEING DEVELOPED.
+
+TECH STACK
+-
+BACKEND
+- SERVLETS
+- MYSQL
+FRONT END
+- HTML , CSS , BOOTSTRAP AND JAVASCRIPT
+
+
+DISCLAIMER
+-
+CONTRIBUTIONS ARE WELCOMED!!
