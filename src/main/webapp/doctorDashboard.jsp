@@ -48,6 +48,7 @@
        ArogyaDao db = new ArogyaDao();
        doctor_name =(String) session.getAttribute("user_name");
        appointments = db.getAppointmentsNotAccepted(doctor_name);
+       System.out.println(appointments);
        accepted_appointments = db.getAppointmentsAccepted(doctor_name);
        
        String rows ="";
